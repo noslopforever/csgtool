@@ -1,5 +1,6 @@
 #include <stdbool.h>
-#include <strings.h>
+//#include <strings.h>
+#include <mbstring.h>
 #include "dbg.h"
 #include "klist.h"
 #include "vector.h"
