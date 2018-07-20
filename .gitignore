@@ -21,3 +21,8 @@ csgtool.dbg
 *.exe
 *.out
 *.app
+/.vs
+/obj
+*.user
+*.ilk
+*.pdb
